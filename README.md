@@ -22,5 +22,5 @@
 
 ### 📬 Contacto & Enlaces
 
-* 💼 **LinkedIn:** [[linkedin.com/in/pablo-navia-50786b344/](https://www.linkedin.com/in/pablo-navia-50786b344/)]
+* 💼 **LinkedIn:** [[linkedin.com/in/pablo-navia-50786b344/](https://www.linkedin.com/in/pablo-navia5)]
 * 📧 **Email:** pablonavia22@gmail.com
