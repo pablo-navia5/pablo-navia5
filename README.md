@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Pablo Navia
 
-<!--
-**pablo-navia5/pablo-navia5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Multiplataforma (DAM)** especializado en el ecosistema **Android (Kotlin)** y **Backend (Java / Spring Boot)**. Enfocado en código limpio, arquitecturas escalables y diseño de interfaces reactivas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico
+
+* **Móvil:** Kotlin, Jetpack Compose, Coroutines, StateFlow, Retrofit, Material 3
+* **Backend:** Java 21, Spring Boot, Hibernate / JPA, REST APIs, Maven/Gradle
+* **Bases de Datos & Cloud:** MySQL, Firebase (Auth, Firestore), Docker, MongoDB
+* **Frontend & Otros:** Angular, TypeScript, Git, Unity (C#)
+
+---
+
+### 🚀 Proyectos Destacados
+
+* 🃏 **[ColeccionaApp](https://github.com/pablo-navia5/ColeccionaApp-Showcase):** App Android nativa con escaneo de cartas mediante IA, arquitectura MVVM/Clean y sincronización en la nube con Firebase.
+* 🐾 **[Veterinary Management System](https://github.com/pablo-navia5/...):** Aplicación web full-stack con backend robusto en Spring Boot, persistencia en MongoDB y frontend reactivo en Angular.
+
+---
+
+### 📬 Contacto & Enlaces
+
+* 💼 **LinkedIn:** [[linkedin.com/in/pablo-navia-50786b344/](https://www.linkedin.com/in/pablo-navia-50786b344/)]
+* 📧 **Email:** pablonavia22@gmail.com
