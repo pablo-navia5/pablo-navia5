@@ -16,7 +16,9 @@
 ### 🚀 Proyectos Destacados
 
 * 🃏 **[ColeccionaApp](https://github.com/pablo-navia5/ColeccionaApp-Showcase):** App Android nativa con escaneo de cartas mediante IA, arquitectura MVVM/Clean y sincronización en la nube con Firebase.
+* 🎮 **[Game collection manager](https://github.com/pablo-navia5/Game-Collection-Manager):** Aplicación completa full-stack con backend en Spring Boot, persistencia en MySql y frontend en Angular, desplegado en la nube y con integracion de chatbot mediante IA.
 * 🐾 **[Gestion de sistema Veterinario](https://github.com/pablo-navia5/Veterinario):** Aplicación web full-stack con backend robusto en Spring Boot, persistencia en MongoDB y frontend reactivo en Angular.
+
 
 ---
 
